@@ -8,3 +8,28 @@
     padding: 8px;
     text-align: right;
 }
+
+.etable td,
+      .etable th {
+        margin: auto;
+        padding: 10px;
+        border-right: 1px solid silver;
+        border-top: 1px solid silver;
+      }
+
+/* .dataTable {
+  height: 300px;
+}
+
+.webix_pager {
+  margin-top: 10px;
+} */
+
+.chart {
+  margin: 0 auto;
+  width: 1500px;
+}
+
+.about {
+  margin: 0 auto;
+}

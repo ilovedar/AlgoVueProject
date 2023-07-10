@@ -1,8 +1,9 @@
 <!-- PageFooter.vue -->
 <template>
     <hr/>
-    <footer>
-        여기는 footer 자리입니다.
+    <footer class="footer">
+        Address : seungyeon.com | 
+        Email : seungyeon.sung@algograp.com
     </footer>
 </template>
 
@@ -11,5 +12,8 @@ export default {}
 </script>
 
 <style scoped>
-
+    .footer {
+        color: ffffff42;
+        font-style: oblique;
+    }
 </style>

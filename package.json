@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "vue-router": "^4.2.2"
+    "vue-router": "^4.2.2",
+    "webix": "^10.1.0"
   }
 }
